@@ -4,6 +4,7 @@
 <style>
 .parallax {
     /* The image used */
+<img scr="https://s-media-cache-ak0.pinimg.com/736x/e4/cc/74/e4cc747e065dbcebf15ff80f3625dced--rose-gold-marble-background-marble-     background-wallpapers.jpg" alt="Background">
     background-image: url("Background.jpg");
 
     /* Set a specific height */
