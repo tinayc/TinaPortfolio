@@ -4,7 +4,7 @@
 <style>
 .parallax {
     /* The image used */
-<img scr="Background.jpg"
+<img scr="Background.jpg" alt="Background"
 style="width:668px;height:700px;">
     background-image: url("Background.jpg");
     /* Set a specific height */
